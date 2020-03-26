@@ -5,19 +5,17 @@
 - 개인프로젝트
 - 프론트 프로젝트
 - [샤넬리뉴얼 자세히보기](https://github.com/odh4145/chanel)
-
+---
 ### 헤어샵예약사이트
 - 팀프로젝트
 - JSP 프로젝트
 - [헤어샵예약 자세히보기](https://github.com/odh4145/bookinghairshop)
-
+---
 [![Video Label](http://img.youtube.com/vi/f-gETucbUes/0.jpg)](https://youtu.be/f-gETucbUes=0s)
 ### 가구쇼핑몰사이트
 - 팀프로젝트
 - SPRING 프로젝트
 - [가구쇼핑몰 자세히보기](https://github.com/odh4145/solohomes)
-
-
 
 # 웹개발 과정 이수
 JAVA 기반의 웹 어플리케이션 제작기술 학습
