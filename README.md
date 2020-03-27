@@ -11,7 +11,7 @@
 - JSP 프로젝트
 - [헤어샵예약 자세히보기](https://github.com/odh4145/bookinghairshop)
 ---
-[![Video Label](http://img.youtube.com/vi/f-gETucbUes/0.jpg)](https://youtu.be/f-gETucbUes=0s)
+[![Video Label](http://img.youtube.com/vi/c6VdWLU0aok/0.jpg)](https://youtu.be/c6VdWLU0aok=0s)
 ### 가구쇼핑몰사이트
 - 팀프로젝트
 - SPRING 프로젝트
