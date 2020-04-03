@@ -1,21 +1,22 @@
 # 사이트 제작
 
-[![Video Label](http://img.youtube.com/vi/mSPIRWIJYC0/0.jpg)](https://youtu.be/mSPIRWIJYC0?t=0s)
 ### 샤넬리뉴얼사이트
 - 개인프로젝트
 - 프론트 프로젝트
 - [샤넬리뉴얼 자세히보기](https://github.com/odh4145/chanel)
----
+[![Video Label](http://img.youtube.com/vi/mSPIRWIJYC0/0.jpg)](https://youtu.be/mSPIRWIJYC0?t=0s)
+
 ### 헤어샵예약사이트
 - 팀프로젝트
 - JSP 프로젝트
 - [헤어샵예약 자세히보기](https://github.com/odh4145/bookinghairshop)
----
-[![Video Label](http://img.youtube.com/vi/c6VdWLU0aok/0.jpg)](https://youtu.be/c6VdWLU0aok=0s)
+[![Video Label](http://img.youtube.com/vi/MSfRWwfJ1aA/0.jpg)](https://youtu.be/MSfRWwfJ1aA?t=0s)
+
 ### 가구쇼핑몰사이트
 - 팀프로젝트
 - SPRING 프로젝트
 - [가구쇼핑몰 자세히보기](https://github.com/odh4145/solohomes)
+[![Video Label](http://img.youtube.com/vi/c6VdWLU0aok/0.jpg)](https://youtu.be/c6VdWLU0aok=0s)
 
 # 웹개발 과정 이수
 JAVA 기반의 웹 어플리케이션 제작기술 학습
