@@ -4,6 +4,7 @@
 - 개인프로젝트
 - 프론트 프로젝트
 - [샤넬리뉴얼 자세히보기](https://github.com/odh4145/chanel)
+
 [![Video Label](http://img.youtube.com/vi/mSPIRWIJYC0/0.jpg)](https://youtu.be/mSPIRWIJYC0?t=0s)
 
 ### 헤어샵예약사이트
